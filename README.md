@@ -1,1 +1,2 @@
-# Artificial-Intelligence TeachableMachine Website
+# Artificial-Intelligence
+TeachableMachine Website
